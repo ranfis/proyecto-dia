@@ -1,3 +1,6 @@
 [submodule "ws"]
 	path = ws
 	url = https://github.com/ranfis/ws-dia.git
+[submodule "admin"]
+	path = admin
+	url = https://github.com/ranfis/admin-dia.git
